@@ -11,7 +11,7 @@ A compact, stable, and mid-speed autonomous maze-solving robot powered by the **
 
 **Neurix** balances compact mechanical packaging with deterministic real-time control on the STM32F411CEU6 (ARM Cortex-M4, up to 100 MHz with FPU). It focuses on clean sensor feedback, stable closed-loop motion, and predictable mid-speed navigation rather than unstable high-speed extremes.
 
-<img width="1600" height="1600" alt="Gallery" src="https://github.com/user-attachments/assets/28e3f503-20f6-4443-8ae7-66649d5940dc" />
+[<img width="1600" height="1600" alt="Gallery" src="https://github.com/user-attachments/assets/28e3f503-20f6-4443-8ae7-66649d5940dc" />](https://github.com/KUDewmina/Neurix---Maze-Solving-Robot/blob/main/Media/Gallery.jpeg)
 
 ## Key Features
 
