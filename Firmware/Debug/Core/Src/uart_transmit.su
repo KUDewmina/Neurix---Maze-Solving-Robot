@@ -1,0 +1,5 @@
+../Core/Src/uart_transmit.c:8:6:UART_SendString	32	static
+../Core/Src/uart_transmit.c:18:6:UART_SendNumber	40	static
+../Core/Src/uart_transmit.c:30:6:int_to_str	32	static
+../Core/Src/uart_transmit.c:69:6:float_to_str	64	static
+../Core/Src/uart_transmit.c:105:6:UART_SendFloat	40	static

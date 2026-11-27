@@ -1,0 +1,6 @@
+../Core/Src/encoder.c:72:6:Enc_Init	8	static
+../Core/Src/encoder.c:112:6:getEncoderStatus	16	static
+../Core/Src/encoder.c:135:6:updateCurrentSpeed	4	static
+../Core/Src/encoder.c:170:6:calculateMotorPwm	8	static
+../Core/Src/encoder.c:213:6:speedProfile	8	static
+../Core/Src/encoder.c:223:6:Reset_Encoder_Controller	8	static
